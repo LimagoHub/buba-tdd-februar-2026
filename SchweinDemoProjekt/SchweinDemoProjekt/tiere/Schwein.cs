@@ -2,14 +2,14 @@
 
 public class Schwein
 {
-    
+    public static readonly int INITIAL_WEIGHT = 10;
     private string _name;
     public string Name
     {
         get { return _name;}
         set
         {
-            if (value == "Elsa") throw new ArgumentException("Elsa ist nicht erlaubt!");
+            if (value == "Elsa") throw new ArgumentException("Name verstoesst gegen die Schweinewuerde!");
             _name = value;
         }
     }
@@ -19,7 +19,7 @@ public class Schwein
     public Schwein(string name = "Nobody")
     {
         Name = name;
-        Gewicht = 10;
+        Gewicht = INITIAL_WEIGHT;
     }
 
     public void Fuettern()
