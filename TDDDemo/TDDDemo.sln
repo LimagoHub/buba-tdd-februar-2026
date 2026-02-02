@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDDemo", "TDDDemo\TDDDemo.csproj", "{A9DE617F-75A4-4F8E-AA8A-667EBF77762F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StapelProjektTest", "StapelProjektTest\StapelProjektTest.csproj", "{CA13969E-55B9-4716-8633-84246ABA5520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DE617F-75A4-4F8E-AA8A-667EBF77762F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DE617F-75A4-4F8E-AA8A-667EBF77762F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DE617F-75A4-4F8E-AA8A-667EBF77762F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DE617F-75A4-4F8E-AA8A-667EBF77762F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA13969E-55B9-4716-8633-84246ABA5520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA13969E-55B9-4716-8633-84246ABA5520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA13969E-55B9-4716-8633-84246ABA5520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA13969E-55B9-4716-8633-84246ABA5520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
