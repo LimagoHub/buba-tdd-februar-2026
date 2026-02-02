@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StapelProject", "StapelProject\StapelProject.csproj", "{4E7BE439-BC83-4CFA-9DC7-11CF81A1C6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StapelProjektTests", "StapelProjektTests\StapelProjektTests.csproj", "{509ED18C-AD0A-478A-B7E5-70A0E423BDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7BE439-BC83-4CFA-9DC7-11CF81A1C6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7BE439-BC83-4CFA-9DC7-11CF81A1C6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7BE439-BC83-4CFA-9DC7-11CF81A1C6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7BE439-BC83-4CFA-9DC7-11CF81A1C6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509ED18C-AD0A-478A-B7E5-70A0E423BDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509ED18C-AD0A-478A-B7E5-70A0E423BDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509ED18C-AD0A-478A-B7E5-70A0E423BDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509ED18C-AD0A-478A-B7E5-70A0E423BDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
